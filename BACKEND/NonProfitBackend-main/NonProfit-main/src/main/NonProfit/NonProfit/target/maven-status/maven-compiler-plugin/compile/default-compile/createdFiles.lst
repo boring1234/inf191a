@@ -1,0 +1,5 @@
+Application/entity/User.class
+Application/entity/User$UserBuilder.class
+Application/Application.class
+Application/controllers/UserController.class
+Application/repository/UserRepository.class
